@@ -1,0 +1,12 @@
+.vscode/
+build/
+*.obj
+*.exe
+*.dll
+*.pdb
+*.yuv
+*.y4m
+*.264
+*.mp4
+*.avi
+*.mkv
